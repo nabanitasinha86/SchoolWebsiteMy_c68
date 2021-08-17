@@ -1,0 +1,26 @@
+body
+{
+    text-align: center;
+}
+.my_nav_bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+    width:100%;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+#video{
+    width: 80%;
+}
